@@ -6,10 +6,10 @@ A web-based Library Management System developed as the final project of the **We
 This system helps manage a library's books and users through a web interface.
 
 ## Features
-- [Feature 1, e.g. Add / update / delete books]
-- [Feature 2, e.g. Search books]
-- [Feature 3, e.g. Manage users / members]
-- [Feature 4, e.g. Issue and return books]
+- [Add / update / delete books]
+- [Search books]
+- [Manage users / members]
+- [Issue and return books]
 
 ## Technologies Used
 - [HTML, CSS, JavaScript]
@@ -19,8 +19,6 @@ This system helps manage a library's books and users through a web interface.
 ## How to Run
 1. Download or clone this repository.
 2. [Open index.html in a browser, or start the local server and import the database]
-
-## Screenshots
 
 
 ## Author
