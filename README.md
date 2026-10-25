@@ -18,10 +18,10 @@ This system helps manage a library's books and users through a web interface.
 
 ## How to Run
 1. Download or clone this repository.
-2. [Write the steps, e.g. open index.html in a browser, or start the local server and import the database]
+2. [Open index.html in a browser, or start the local server and import the database]
 
 ## Screenshots
-[Add screenshots here later]
+
 
 ## Author
 **Mahbub Ullah**
